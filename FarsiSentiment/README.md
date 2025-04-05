@@ -52,3 +52,12 @@ It analyzes customer reviews from the Digikala dataset and predicts whether a re
 
 ## 📁 Project Structure
 
+farsi-sentiment-analysis/
+├── data/
+│   └── digikala_comments.csv
+├── notebook/
+│   └── digikala_analysis.ipynb
+├── README.md
+├── requirements.txt
+└── .gitignore
+
