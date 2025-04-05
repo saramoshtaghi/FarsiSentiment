@@ -6,7 +6,7 @@ It analyzes customer reviews from the Digikala dataset and predicts whether a re
 ---
 ## 🧠 Author
 
-**Your Name** — NLP Researcher & Machine Learning Engineer  
+**Sara Moshtaghi** — NLP Researcher & Machine Learning Engineer  
 [LinkedIn](https://linkedin.com/in/saramoshtaghi) | [GitHub](https://github.com/saramoshtaghi)
 
 ---
